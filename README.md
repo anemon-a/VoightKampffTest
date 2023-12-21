@@ -34,21 +34,21 @@
 <h2 id="chapter-iii" >Chapter III</h2>
 <h2 id="intro" >Intro</h2>
 
- &mdash; It seems you feel our work is not a benefit to the public.
+ "It seems you feel our work is not a benefit to the public."
  
- &mdash; Replicants are like any other machine. They're either a benefit or a hazard. If they're a benefit, it's not my problem.
+ "Replicants are like any other machine. They're either a benefit or a hazard. If they're a benefit, it's not my problem."
  
- &mdash; May I ask you a personal question?
+ "May I ask you a personal question?"
 
 Deckard sat down on a chair.
  
- &mdash; Sure.
+ "Sure."
  
- &mdash; Have you ever retired a human by mistake?
+ "Have you ever retired a human by mistake?"
  
- &mdash; No. - he didn't even blink.
+ "No," he didn't even blink.
  
- &mdash; But in your position that is a risk?
+ "But in your position that is a risk?"
 
 Deckard prepared to give some meaningful response, but then another person appeared in the room.
 It was a tall man, presumably in his fifties, wearing an impeccable black suit and some kind of 
@@ -57,16 +57,16 @@ advanced tech multifaceted glasses.
 <h2 id="chapter-iv" >Chapter IV</h2>
 <h3 id="exercise-00-retirement-plan">Exercise 00: Retirement Plan</h3>
 
- &mdash; Is this to be an empathy test? Capillary dilation of the so-called blush response?
- Fluctuation of the pupil? Involuntary dilation of the iris?
+ "Is this to be an empathy test? Capillary dilation of the so-called blush response?
+ Fluctuation of the pupil? Involuntary dilation of the iris?"
 
- &mdash; We call it Voight-Kampff for short.
+ "We call it Voight-Kampff for short."
 
 Rachael decided to keep the formalities.
 
- &mdash; Mr. Deckard, Dr. Eldon Tyrell. - she introduced.
+ "Mr. Deckard, Dr. Eldon Tyrell," she introduced.
 
- &mdash; Demonstrate it. I want to see it work. - Tyrell seemed to be impatient. A characteristic
+ "Demonstrate it. I want to see it work," Tyrell seemed to be impatient. A characteristic
  of people with a very busy schedule.
 
 Several minutes have passed and discussion went on. Even being young and bold, Deckard came to
@@ -103,10 +103,10 @@ about the reliability of the test. He always blindly followed its results, but c
 test itself?
 
 All the research led him to the fact that human body does have surprisingly few responses to an
-external stimulus that could be called "fully automatic". Of course Rick couldn't reproduce the
+external stimulus that could be called 'fully automatic'. Of course Rick couldn't reproduce the
 whole research behind Voight-Kampff, but he wanted to know the algorithm.
 
-Deckard couldn't really explain why, even to himself. One of the most dangerous thoughts was
+Deckard couldn't really explain why, even to himself. One of the most dangerous thoughts was,
 "I need to know the proper answers if I am ever to be a test subject".
 
 -----
@@ -137,14 +137,14 @@ it existed, but that was about all he had.
 Blade runners still had to use the test when hunting the escaped replicants. It was their 
 way to make sure that they are doing the right thing.
 
- &mdash; What are you working at? - Rachael asked him one day. 
+ "What are you working at?" Rachael asked him one day. 
 
- &mdash; I want...to write about it. I think it's more of an art piece for me now, rather than a
- weapon.
+ "I want... to write about it. I think it's more of an art piece for me now, rather than a
+ weapon."
 
- &mdash; You've never answered me... Did you ever take that test yourself?
+ "You've never answered me... Did you ever take that test yourself?"
 
- &mdash; Don't worry about it. Cogito, ergo sum.
+ "Don't worry about it. Cogito, ergo sum."
 
 -----
 
