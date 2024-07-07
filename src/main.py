@@ -1,5 +1,5 @@
 import json
-from test import Voight_Kampff_Test
+from voight_kampff_test import Voight_Kampff_Test
 
 if __name__ == "__main__":
     with open("database.json") as f:
