@@ -1,8 +1,7 @@
 import json
-from voight_kampff_test import Voight_Kampff_Test
+from vk_test.voight_kampff_test import VoightKampffTest
 
 if __name__ == "__main__":
-    with open("database.json") as f:
-        data = json.load(f)
-    test = Voight_Kampff_Test(data)
-    test.perform_test()
+    """Entry point to the program"""
+    test = VoightKampffTest("question.json")
+    test.run_test()
