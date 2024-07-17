@@ -19,7 +19,7 @@ def test_empty_test():
 
 
 def test_not_empty_test():
-    assert check_json_file("../database.json") == True
+    assert check_json_file("../question.json") == True
 
 
 @pytest.mark.parametrize(
